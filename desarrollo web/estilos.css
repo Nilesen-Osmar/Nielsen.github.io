@@ -1,0 +1,27 @@
+hr{
+    background: #3b4859;
+    color: #fff;
+    margin: 20px 0px;
+}
+hr{
+    background: rgba(0,0, 0, .2);
+    height: 1px;
+    width: calc(50%-40px);
+    border: none;
+    position: relative;
+    float: left;    
+    margin-top: 5px;
+}
+.contimg{
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 40px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 7px;
+    padding: 8px;
+    box-sizing: border-box;
+}
